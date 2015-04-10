@@ -1,4 +1,4 @@
 #!/bin/bash
 
-touch /tmp/backer.id
+touch /tmp/backer2.id
 
